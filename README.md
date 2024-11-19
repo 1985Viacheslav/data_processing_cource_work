@@ -6,3 +6,6 @@
 # Прозоров Евгений Иванович
 
 # В работе применены алгоритмы машинного обучения BALD, Least Confidence, BAIT
+
+# Датасет выложен в папку https://drive.google.com/drive/folders/1AdXmhrWX0G8LMVuXNJ7WpJgi5UMFFT9j?usp=drive_link
+
